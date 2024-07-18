@@ -837,14 +837,6 @@ video {
   width: 100%;
 }
 
-.w-\[\] {
-  width: ;
-}
-
-.w-\[100\%\] {
-  width: 100%;
-}
-
 .flex-shrink {
   flex-shrink: 1;
 }
