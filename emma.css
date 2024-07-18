@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+ul li{
+    @apply w-full bg-gray-800  text-slate-100 text-center rounded-lg py-3 my-2 px-12
+}
+
+main article{
+    @apply md:bg-red-500 rounded-2xl sm:bg-green-700 bg-blue-500
+}
